@@ -59,8 +59,8 @@
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/krishyadav90/quiz-website.git
-cd quiz-website
+git clone https://github.com/marlito-duarte/quizfy.git
+cd quizfy
 
 # Install dependencies
 npm install
