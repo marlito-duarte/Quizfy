@@ -83,29 +83,8 @@ src/
 │   ├── dashboard/      # Dashboard views
 ├── styles/             # Global styles
 ```
-## 🤝 Contributing
-
-We welcome contributions from developers of all levels!  
-If you'd like to help improve this project, you are welcomed.
-
-## 🌟 Contributors
-
-Thanks to the following amazing people who have contributed to this project:
-
-<p align="center">
-  <a href="https://github.com/phoenixdev100">
-    <img src="https://avatars.githubusercontent.com/u/76478364?v=4" width="80" alt="PhoenixDev100" />
-    <br />
-    <sub><b>Deepak</b><br />Contributor</sub>
-  </a>
-</p>
-
-Want to be listed here? **Contribute** and your name will be added!
-
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License**.
 
-© 2025 [Krish Yadav](https://github.com/krishyadav90)
+© 2026 [Marlito Duarte](https://github.com/marlito-duarte)
